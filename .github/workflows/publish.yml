@@ -11,5 +11,3 @@ jobs:
     with:
       # CHANGEME: Set the filenames of your config files here:
       files: emporiavue2.yaml
-      # CHANGEME: Set the name of your project here:
-      name: esphome-project
