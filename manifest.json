@@ -12,24 +12,6 @@
           "offset": 0
         }
       ]
-    },
-    {
-      "chipFamily": "ESP8266",
-      "parts": [
-        {
-          "path": "project-template-esp8266/project-template-esp8266.bin",
-          "offset": 0
-        }
-      ]
-    },
-    {
-      "chipFamily": "ESP32",
-      "parts": [
-        {
-          "path": "project-template_sample-esp32/project-template_sample-esp32.bin",
-          "offset": 0
-        }
-      ]
     }
   ]
 }
