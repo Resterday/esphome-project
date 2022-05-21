@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "emporiavue2-esp32/emporiavue2-esp32.bin",
+          "path": "emporiavue-esp32/emporiavue-esp32.bin",
           "offset": 0
         }
       ]
